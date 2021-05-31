@@ -52,6 +52,8 @@ Ports
 Translation
 - [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
 
+### craete A post 创建一个post
+rake post title="Hello world" subtitle="Hello World, Hello Blog"
 
 License
 -------
